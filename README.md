@@ -8,7 +8,8 @@ Welcome to my **ISO 27001 Portfolio**! This repository showcases my projects rel
 - Focused on enhancing security practices through structured auditing and compliance processes  
 
 ### Rohith Mangaiahgari  
-- Internal Auditor with **1 year 10 months of experience**  
+- Internal Auditor with **1 year 10 months of experience**
+- ISO/IEC 27001:2022 Lead Auditor Certified 
 - Specializes in risk assessment, compliance monitoring, and policy development aligned with ISO 27001 standards 
 - Brings a focused approach to identifying control gaps and enhancing regulatory adherence across audit processes
 ## 📂 Repository Structure
