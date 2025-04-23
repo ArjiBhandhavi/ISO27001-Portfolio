@@ -2,9 +2,15 @@
 
 Welcome to my **ISO 27001 Portfolio**! This repository showcases my projects related to **ISO 27001 auditing, risk assessments, and compliance**. The first project in this portfolio is a **Gap Assessment for CloudTech Solutions**, a hypothetical IT services company.
 
-## 📌 About Me
-I am an **ISO 27001 Lead Auditor** with expertise in **risk and compliance auditing, information security, and IT governance**. This portfolio highlights my hands-on experience in **ISO 27001 Gap Assessments, internal audits, and security risk evaluations**.
+### Arji Bhandhavi  
+- MBA in progress (IGNOU), specializing in Operations Research 
+- ISO/IEC 27001:2022 Lead Auditor Certified  
+- Focused on enhancing security practices through structured auditing and compliance processes  
 
+### Rohith Mangaiahgari  
+- Internal Auditor with **1 year 10 months of experience**  
+- Specializes in risk assessment, compliance monitoring, and policy development aligned with ISO 27001 standards 
+- Brings a focused approach to identifying control gaps and enhancing regulatory adherence across audit processes
 ## 📂 Repository Structure
 ```
 📁 ISO27001-Gap-Assessment/
@@ -36,13 +42,6 @@ Conduct a **gap analysis** of CloudTech Solutions' information security practice
 - Check the **Gap-Assessment-Checklist.xlsx** for compliance evaluation.
 - Read the **Gap-Assessment-Report.pdf** for detailed analysis and recommendations.
 
-## 🚀 Future Projects
-🔹 **Internal ISMS Audit Simulation**  
-🔹 **Risk Assessment & Treatment Plan**  
-🔹 **Supplier Security Audit Checklist**  
-
-## 📞 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/arji-bhandhavi-bb4a331b9/
-
-🔹 *Stay tuned for more ISO 27001 projects!* 🔹
-
+## 🔗 Connect with Us
+- **Arji Bhandhavi** – [LinkedIn](https://www.linkedin.com/in/arji-bhandhavi-bb4a331b9/)  
+- **Rohith Mangaiahgari** – [LinkedIn](https://www.linkedin.com/in/rohith-mangaiahgari-299a02205/)
