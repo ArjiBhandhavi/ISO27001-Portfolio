@@ -15,7 +15,8 @@ Welcome to my **ISO 27001 Portfolio**! This repository showcases my projects rel
 ## 📂 Repository Structure
 ```
 📁 ISO27001-Gap-Assessment/
-    📄 Project-Synopsis.pdf
+    📄 Synopsis.pdf
+    📄 Project.pdf
     📊 Gap-Assessment-Checklist.xlsx
     📄 Gap-Assessment-Report.pdf
 
