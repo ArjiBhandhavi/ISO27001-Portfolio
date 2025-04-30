@@ -51,4 +51,4 @@ Conduct a **gap analysis** of CloudTech Solutions' information security practice
 © 2025 Arji Bhandhavi, Rohith Mangaiahgari. All rights reserved.
 This project is the intellectual property of Arji Bhandhavi, Rohith Mangaiahgari and may not be copied, published, redistributed, or used in any form without explicit written permission.
 Unauthorized use or reproduction of this work is strictly prohibited.
-- See LICENSE.txt for usage restrictions
+- See LICENSE.txt 
