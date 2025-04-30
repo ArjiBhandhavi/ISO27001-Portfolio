@@ -14,6 +14,9 @@ Welcome to my **ISO 27001 Portfolio**! This repository showcases my projects rel
 - Brings a focused approach to identifying control gaps and enhancing regulatory adherence across audit processes
 ## 📂 Repository Structure
 ```
+📁 Audit-Reports/
+    (Simulated internal audits & reports)
+
 📁 ISO27001-Gap-Assessment/
     📄 Synopsis.pdf
     📄 Project.pdf
@@ -25,9 +28,6 @@ Welcome to my **ISO 27001 Portfolio**! This repository showcases my projects rel
 
 📁 Risk-Assessments/
     (Risk analysis projects)
-
-📁 Audit-Reports/
-    (Simulated internal audits & reports)
 ```
 
 ## 📜 Project: ISO 27001 Gap Assessment for CloudTech Solutions
