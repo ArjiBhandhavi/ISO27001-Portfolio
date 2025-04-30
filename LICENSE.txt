@@ -1,0 +1,11 @@
+Copyright © 2025 Arji Bhandhavi, Rohith Mangaiahgari. All rights reserved.
+
+This project and all its contents are the intellectual property of Arji Bhandhavi, Rohith Mangaiahgari. 
+Unauthorized copying, reproduction, modification, distribution, or publication 
+of any part of this project, in any form, is strictly prohibited without prior 
+written consent from the author.
+
+This work is provided for personal or educational reference only and may not be 
+used for commercial, academic, or public purposes.
+
+For permissions or licensing inquiries, contact: arjibhandhavi.ac@gmail.com | sairohithmr@gmail.com
