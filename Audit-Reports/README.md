@@ -1,4 +1,4 @@
-# Internal Audit Reports
+# Audit-Reports
 
 This folder includes planning and reporting documents for the internal audit conducted as part of the ISO/IEC 27001 compliance journey.
 
