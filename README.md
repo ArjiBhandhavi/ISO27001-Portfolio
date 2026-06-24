@@ -3,7 +3,7 @@
 Welcome to my **ISO 27001 Portfolio**! This repository showcases my projects related to **ISO 27001 auditing, risk assessments, and compliance**. The first project in this portfolio is a **Gap Assessment for CloudTech Solutions**, a hypothetical IT services company.
 
 ### Arji Bhandhavi  
-- MBA in progress (IGNOU), specializing in Operations Research 
+- MBA Graduate with specialization in Operations Research 
 - ISO/IEC 27001:2022 Lead Auditor Certified  
 - Focused on enhancing security practices through structured auditing and compliance processes  
 
