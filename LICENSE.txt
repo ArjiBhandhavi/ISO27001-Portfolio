@@ -1,6 +1,6 @@
 Copyright © 2025 Arji Bhandhavi | All rights reserved.
 
-This project and all its contents are the intellectual property of Arji Bhandhavi, Rohith Mangaiahgari. 
+This project and all its contents are the intellectual property of Arji Bhandhavi. 
 Unauthorized copying, reproduction, modification, distribution, or publication 
 of any part of this project, in any form, is strictly prohibited without prior 
 written consent from the author.
