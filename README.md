@@ -7,11 +7,6 @@ Welcome to my **ISO 27001 Portfolio**! This repository showcases my projects rel
 - ISO/IEC 27001:2022 Lead Auditor Certified  
 - Focused on enhancing security practices through structured auditing and compliance processes  
 
-### Rohith Mangaiahgari  
-- Internal Auditor with **1 year 10 months of experience**
-- ISO/IEC 27001:2022 Lead Auditor Certified 
-- Specializes in risk assessment, compliance monitoring, and policy development aligned with ISO 27001 standards 
-- Brings a focused approach to identifying control gaps and enhancing regulatory adherence across audit processes
 ## 📂 Repository Structure
 ```
 📁 Audit-Reports/
@@ -46,9 +41,8 @@ Conduct a **gap analysis** of CloudTech Solutions' information security practice
 
 ## 🔗 Connect with Us
 - **Arji Bhandhavi** – [LinkedIn](https://www.linkedin.com/in/arji-bhandhavi-bb4a331b9/)  
-- **Rohith Mangaiahgari** – [LinkedIn](https://www.linkedin.com/in/rohith-mangaiahgari-299a02205/)
 
-© 2025 Arji Bhandhavi, Rohith Mangaiahgari. All rights reserved.
-This project is the intellectual property of Arji Bhandhavi, Rohith Mangaiahgari and may not be copied, published, redistributed, or used in any form without explicit written permission.
+© 2025 Arji Bhandhavi | All rights reserved.
+This project is the intellectual property of Arji Bhandhavi and may not be copied, published, redistributed, or used in any form without explicit written permission.
 Unauthorized use or reproduction of this work is strictly prohibited.
 - See LICENSE.txt 
